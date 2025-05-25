@@ -1,0 +1,10 @@
+D:\GAS SENSE C#\GasSenseInterface\obj\Debug\GasSenseInterface.csproj.AssemblyReference.cache
+D:\GAS SENSE C#\GasSenseInterface\obj\Debug\GasSenseInterface.Form1.resources
+D:\GAS SENSE C#\GasSenseInterface\obj\Debug\GasSenseInterface.Properties.Resources.resources
+D:\GAS SENSE C#\GasSenseInterface\obj\Debug\GasSenseInterface.csproj.GenerateResource.cache
+D:\GAS SENSE C#\GasSenseInterface\obj\Debug\GasSenseInterface.csproj.CoreCompileInputs.cache
+D:\GAS SENSE C#\GasSenseInterface\bin\Debug\GasSenseInterface.exe.config
+D:\GAS SENSE C#\GasSenseInterface\bin\Debug\GasSenseInterface.exe
+D:\GAS SENSE C#\GasSenseInterface\bin\Debug\GasSenseInterface.pdb
+D:\GAS SENSE C#\GasSenseInterface\obj\Debug\GasSenseInterface.exe
+D:\GAS SENSE C#\GasSenseInterface\obj\Debug\GasSenseInterface.pdb
